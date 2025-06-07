@@ -5,7 +5,7 @@ clear
 # ========================
 REPO_NAME="Noob Hackers"
 REPO_URL="https://raw.githubusercontent.com/prince4you/Noob-hackers/main"
-REPO_KEY="$REPO_URL/noob.key"
+REPO_KEY="$REPO_URL/Noob-hackers.key"
 REPO_FILE="$PREFIX/etc/apt/sources.list.d/noob-backers.list"
 LOGFILE="$HOME/noob_repo_install.log"
 PKG_MANAGER="nala"  # Fallback to apt if nala not available
