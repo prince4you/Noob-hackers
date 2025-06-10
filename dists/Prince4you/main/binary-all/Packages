@@ -1,0 +1,320 @@
+Package: banner
+Version: 1.0
+Architecture: all
+Maintainer: Mr Sunil [Prince4You]
+Depends: toilet,figlet,python
+Homepage: https://youtube.com/@noobcybertech2024
+Description: Customizable ASCII banner for Termux with colors
+Installed-Size: 68
+Filename: dists/Prince4you/main/binary-all/Banner.deb
+Size: 944
+MD5Sum: 474fcba322d4460014a70a11ee226ac1
+SHA1: 902e60b1596f71e53acb4493f3777be8fad9fa3a
+SHA256: d8c34009a2320c4b2b54db38fc206b706df3b7937e9a982cfc1623512bce20cb
+SHA512: dfa3ffc21f2a6bf2ca91b8c01b93b65820e1b91f40bee8cfefa2a95a04a847373490e78e9e87274a2fd32c42db3ea1e8207ba64600f2c18797821d61f3de9bd5
+
+Package: termux-desktop
+Version: 1.0
+Architecture: all
+Installed-Size: 5000
+Maintainer: Sunil [Princ4You]
+Depends: bash, curl, git, wget
+Description: This package installs the Termux Desktop setup script that allows you to easily set up a desktop environment on Termux 
+Homepage: https://github.com/sabamdarif/termux-desktop
+Filename: dists/Prince4you/main/binary-all/Desktop.deb
+Size: 1484
+MD5Sum: b23c8e81e732aee19153ae30d06e9971
+SHA1: cc7e35f566997e50895ac6db9da65acb340a168e
+SHA256: ba5ec6d52020b6a8f0d6d3952c83892ecd31b23bc426de262ac31ed8479774cd
+SHA512: c207879c17ec001034d18d41881baa84c6dc7f3654f167ba55c6ee9971b79af7e77a8b981629e6d834fa0616f7e9b732837c5d5cba5b873ac485af4041acdff3
+
+Package: kali-linux
+Version: 1.0.0
+Architecture: all
+Maintainer: Sunil [prince4you]
+Depends: curl
+Description: A GUI installation for Kali Linux
+Homepage: https://github.com/Anon4You/kalilinux
+Filename: dists/Prince4you/main/binary-all/Kali-linux.deb
+Size: 1008
+MD5Sum: dc4628e0a4c9d6a3f7bc49be8a9ebc82
+SHA1: 112f47876eee3b9a7a85ca2718004101e47a8c95
+SHA256: 264f662735e5954792f706a54a4936b080c9f0287ac308c1e1ce3fa0e4dd0ccb
+SHA512: 8c08d9ae526ac74311ab65d1ba4d83f03c39d244aaba54c1dd80267bd9224f06ca9385950751981ab224d69e30453c3c62db06ce970bfef8317b30fa87398418
+
+Package: apkeditor
+Version: 1.4.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: openjdk-17,wget
+Suggests: alienkrishn
+Description: Powerful android apk editor - aapt/aapt2 independent
+Filename: dists/Prince4you/main/binary-all/apkeditor.deb
+Size: 1652
+MD5Sum: 4517767b2cbb8fe3480a5c743660f7c5
+SHA1: d384c0d135e16a391b45088fd34fbe0430f9723e
+SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
+SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
+
+Package: apktool
+Version: 2.11.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: wget, aapt2, openjdk-17
+Homepage: https://apktool.org/
+Description: A tool for reverse engineering Android apk files
+Filename: dists/Prince4you/main/binary-all/apktool.deb
+Size: 1124
+MD5Sum: e720191b31d188caf98a9000e7e0dc58
+SHA1: d5ad91812d225e4cb9f809c3d54e782de5dfb4c2
+SHA256: b0acb0e637a61ca5ce3408d73764344b65fc7efbe8333b6891b4d0487cc8e33a
+SHA512: 4f3bcd0bcb1ddc243c3ba32cf899a6c579cdda9c167e78c999ca20166f257135e79bdb430e0770dbf0a69b065590e9e85c0ce1a6f7f8741ac949c57118760749
+
+Package: beef-xss
+Version: 1.0
+Architecture: all
+Maintainer: Sunil [Prince4you]
+Description: BeEF Framework auto-installer for Termux (no root)
+Depends: curl, git, ruby, nodejs, python, wget
+Homepage: https://github.com/beefproject/beef
+Filename: dists/Prince4you/main/binary-all/beef-xss.deb
+Size: 3336
+MD5Sum: b4ae38908f5da00350496ccfe052d6eb
+SHA1: 52217482941064e08f90dd116602a03d1cffb060
+SHA256: 3d2a7ede3d2802e992a9213f5123a09f43edd47da6641ff4927819c25fd8a848
+SHA512: a41630dbc8f1ace293668204722231d1dfe18941bd1b22a64b0eb80bb939254cb90bc35a01539951e6c80f90fc2ace52c98eb0ab3e566d1048e640f38e69c881
+
+Package: burpsuite-pro
+Version: 2024.12.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl, openjdk-21, openjdk-21-x
+Homepage: https://portswigger.net/burp/
+Description: An integrated platform for performing security testing of web applications (professional edition)
+Filename: dists/Prince4you/main/binary-all/burpsuite-pro.deb
+Size: 3680
+MD5Sum: 8302cd12febac8f43e1b13f45e3e6967
+SHA1: d8ed0ac73496f3031de9b27d3f00a7cb2ab1b3be
+SHA256: fc3106fc2d30f5b6058017df74157649d01bfc60de6d0e7c64c5d75a3ee0a8fa
+SHA512: d06ff865f1806bc0851f5e443db12c933cc3c9c22c2c07f9619c177627fc8de56b2986e29d52736f6a1e26f1458dd6dd8263c3fe0999f548feff6fb321a95ab5
+
+Package: burpsuite
+Version: 2024.12.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl, openjdk-21, openjdk-21-x
+Homepage: https://portswigger.net/burp/
+Description: An integrated platform for performing security testing of web applications (community edition)
+Filename: dists/Prince4you/main/binary-all/burpsuite.deb
+Size: 36296
+MD5Sum: 58c7702ea77b5ce9586a0a54c94aafe7
+SHA1: fc05c67cb48d7a81a5d6525dbcc1816594cad815
+SHA256: 8e2372ae550eb06e0427c5a8ca16f8dab5a9832c22bf8e59d997684d309f8025
+SHA512: bdfdf4784c9c34a3a65381d39362110cdc9ea4fb3e34909b1e481b40d810e33e4505c126f5bcfe6218e1ef11a449ec87b0f45d984001c075654eb9675c8cdd32
+
+Package: cupp
+Version: 3.3.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-exec,python
+Homepage: https://github.com/Mebus/cupp
+Description: Common User Passwords Profiler (CUPP)
+Installed-Size: 68
+Filename: dists/Prince4you/main/binary-all/cupp.deb
+Size: 9424
+MD5Sum: 16ca98ccd59c1a83efc7c81288b431c0
+SHA1: eeab408bb75afd489933b2da357e5ef04d2f5f58
+SHA256: 5688835625cbd85612d18df0992d6a346b64b0ddb93f196c647c4bd7c2f6ddab
+SHA512: 473948f061bf47d0e82083a5f605afca6b50b575d27eef57ab3ac46d05f73d61d161431c1033687547417d5e2667dea5787ba470145e6c3a5505a75536c00d01
+
+Package: enctool
+Version: 1.0
+Architecture: all
+Installed-Size: 64
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,nodejs
+Description: encrypt or decrypt bash file and encrypt python in Marshal format
+Filename: dists/Prince4you/main/binary-all/enctool.deb
+Size: 2304
+MD5Sum: 727d61c8a49776fa32e581a3ea147b01
+SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
+SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
+SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
+
+Package: hashcat
+Version: 6.2.6
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: git, glibc, libc++, clang, libiconv, make, ocl-icd, opencl-vendor-driver
+Suggests: alienkrishn
+Homepage: https://github.com/hashcat/hashcat.git
+Description: World's fastest and most advanced password recovery utility
+Filename: dists/Prince4you/main/binary-all/hashcat.deb
+Size: 1920
+MD5Sum: 7ee2d2db1b2d7e4e2688b73d20f488c2
+SHA1: 38240e2f6f52658b763509a18feeb8b99782c953
+SHA256: 0bae1f9ad1045c6623ee3ec6ab8305b4817c159bbc3ca0741cff5f89d74f7d76
+SHA512: 8a49e91fd110638dfb99d3c6c5a24434a1495b359759fb5c7847e98305fefce40a672309fa47e9fb37f7bde980ed777381ed5c8f0bd25475b824b03129dbb0d0
+
+Package: metasploit-framework
+Version: 6.4.63
+Architecture: all
+Maintainer: Sunil [Prince4You]
+Depends: binutils, python, autoconf, bison, clang, coreutils, curl, findutils, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, ncurses, make, ncurses-utils, git, wget, unzip, zip, tar, termux-tools, termux-elf-cleaner, pkg-config, ruby, apksigner
+Homepage: https://www.metasploit.com/
+Description: Penetration testing framework. Popular tool for security testing
+Filename: dists/Prince4you/main/binary-all/metasploit-framework.deb
+Size: 1808
+MD5Sum: 09291b2b7904d91a3f63b8aa910a5c01
+SHA1: de677fcb2ffdcb7a2ae0071dafc68a70c80698c2
+SHA256: a208a8a6463af17037ba45bfbe6ad059965f6ba3cdbbaa21ad9d9734ffa5c64f
+SHA512: 501c4bb1410e2a69faf0b29e83b67b2db8b52e3f7b93132399f4124729a3c78d9f7fc1598e251d676493ded7f22df30a603fc4ea933938c336de290daa223415
+
+Package: noob-hub
+Version: 1.0.0
+Architecture: all
+Maintainer: Sunil [noob cyber tech]
+Depends: bash, curl, git, wget
+Description: Noob Hub script for easy Termux setup.
+Homepage: https://github.com/sunil/noob-hub
+Filename: dists/Prince4you/main/binary-all/noob-hub.deb
+Size: 1012
+MD5Sum: 4b66d7c7a0bcbb5df796033e655df432
+SHA1: b9d7466e37a4caad60ef122bbab38b31b2761af2
+SHA256: e85024bec5ed9a2f441fcfc5706023ad15d9fba54b000e6450082aba3f086de6
+SHA512: 844e5517c68103ae598baa999be82adda2f5f37b6600dbeb78a38cec18e52afdf3452a21e56c0d5b5775c1f656054c799e111a4dd386e45ae0b80f487721b720
+
+Package: parrot-os
+Version: 6.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: proot-distro
+Description: parrot-os on termux
+Filename: dists/Prince4you/main/binary-all/parrot-os.deb
+Size: 1608
+MD5Sum: 4c916092e17ceb6feec55635eb1ce9b5
+SHA1: 84875bf2684c9fd743b5a2ac29279e8c0721109b
+SHA256: 4161095fe72105db74efa562921b83d4e3981fe65b545292646860f3baecc3d9
+SHA512: fee4cae40a0ddbb224206625dec4501f79bbb3dc74e7d471ede55da6e83bb1126e5fe44e029deb20c34a8bca9dfa01e85ddec9b6f2578a9b02170b1027f51793
+
+Package: redhawk
+Version: 2.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, php
+Homepage: https://github.com/Tuhinshubhra/RED_HAWK 
+Installed-Size: 1
+Description: All in one tool for Information Gathering, Vulnerability Scanning and Crawling
+Filename: dists/Prince4you/main/binary-all/redhawk.deb
+Size: 1484
+MD5Sum: 2be5dfd05e083ca9ce171dfe849baf97
+SHA1: e28e113235d1938aa13776a9fce955e63b9b88d0
+SHA256: 7ceab76c89a0655fd5537b1a003460d6d4eaab0a8f7e17ccaed6dbe4d200994f
+SHA512: a20999c0df5c59b2f5447b5c95b0a2dd4ce4627638b6a4d1b26a5d8349a387485391eccaee2a4d30ea7860c9ec52d86a554328d8236a3882d73712d88b10c642
+
+Package: sqlmap
+Version: 1.9
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git,python
+Homepge: https://sqlmap.org/
+Installed-Size: 1
+Description: Automatic SQL injection and database takeover tool
+Filename: dists/Prince4you/main/binary-all/sqlmap.deb
+Size: 1508
+MD5Sum: 5e904f7d010601c21a2072c22d719653
+SHA1: 3720c69f143315b2d6d030d66b22ae3695776c62
+SHA256: 61dac6162482b15e06962c588d7fee9f1085da9f695414ba31d3e9e2fcdd0410
+SHA512: 457b93637a6d1b4cf24ac341e5cc484416e207e0377fb2cb0d467b57097d23133e991c4c082eff44fa35013e691d994db53b23b5bb9ff92c864c2a4164ff37fd
+
+Package: termux-desktop
+Version: 1.0.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-am,xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus
+Installed-Size: 12632
+Description: termux xfce4 desktop gui
+Filename: dists/Prince4you/main/binary-all/termux-desktop.deb
+Size: 1892832
+MD5Sum: fefd612dd04f46b25bc52a3d9209d975
+SHA1: 703e74092435ad5d49fc2d38daed30c66c14e7ca
+SHA256: 465b825bc4aa5112db03b37f097200bd5df025011c861d75433f93747fdc1a7b
+SHA512: 1c24e8797625a1f07052b284d41d5632fe7a4437ecfe116c683cacdc542837231c48303420d4416230cd1dfddfbff8bf3dd7f561d942fb249d5116cd5fcfc734
+
+Package: thc-hydra
+Architecture: all
+Installed-Size: 1588
+Maintainer: Alienkrishn [Anon4You]
+Version: 9.5
+Homepage: https://github.com/vanhauser-thc/thc-hydra
+Depends: libidn, libgcrypt, libssh, libssh2, openssl, openssl-1.1, pcre, pcre2, zlib
+Description: hydra
+Filename: dists/Prince4you/main/binary-all/thc-hydra.deb
+Size: 427528
+MD5Sum: f19b887e242a68d01a760a2eec23381a
+SHA1: 7dcbcc4f56c786be70dc8944a9c1c50e928f5bd5
+SHA256: 2bc4121313311587fb3b28975474a8ee596d86be8e9ee3651c75dd9c474bf280
+SHA512: 7542dd660ef4bb440e5176c230b7e113454e2d3cc4ad61aefc25c3ca2fcb392939c1f0a2bce58f358d06f55658d4ad346fb04efcebd20274c51013e3ff8a12c4
+
+Package: the-theif
+Version: 1.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: apksigner,apkeditor,python
+Installed-Size: 1
+Description: A tool that can hijack cookies and transmit them to Telegram using the API.
+Filename: dists/Prince4you/main/binary-all/the-theif.deb
+Size: 1414756
+MD5Sum: b01c8523fcfbe22f7add535e6d86760c
+SHA1: 1f97336f2d243c4fb0fe32ad71258efee7d146bb
+SHA256: 18cabc39eaa34e21d6faa0dc7db5368b1f514fafe8ed426f16a7a7fdd57c0369
+SHA512: 6bc94af33a755f15d690f1712fbf713237a5fd589e4e778aca4af54ea21133b1607f6dd8ef50fa6c6fe008289f4461b159fb523b573442680233304be9d5ef7f
+
+Package: venom
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git,curl,php,openssh
+Homepage: https://github.com/Anon4You/venom/
+Installed-Size: 3
+Description: An automated phishing tool for absolute beginners
+Filename: dists/Prince4you/main/binary-all/venom.deb
+Size: 1436
+MD5Sum: 457c5afc9437a1084542caf5ce8b8555
+SHA1: c0c986653ecdef2053bb59b37f1483671e3d13de
+SHA256: 27e1fbb27ea59ca207ecb9522f6a7885ec287ccd93645e50bfbcae1624afa932
+SHA512: d990d9515aef4c4a5a09365e1971985b37653c9ad1f8131b5554e21c1945951bd66198eba610a988eabb5579765ff658c08f99570f4110793111d8bca41634e0
+
+Package: weeman
+Architecture: all
+Version: 1.7.1
+Maintainer: Alienkrishn [Anon4You]
+Depends: python2,git
+Suggest: maskme,shorturl
+Installet-Size: 1
+Homepage: https://github.com/evait-security/weeman
+Description: HTTP server for phishing in python2
+Filename: dists/Prince4you/main/binary-all/weeman.deb
+Size: 1628
+MD5Sum: 50d2af41e1117ceed7851c2ef9d5c362
+SHA1: e0f125a16df673be3ab1c8b3043c9b85914cc25d
+SHA256: de76bdf37d479180672fcd115a67697a5a3d34caf613eec11876fd2f75bd98d2
+SHA512: d99e0898957c8380e4dfa45f5018d47d5d587992bd96f1e8800302be88f0ae561b235882563680b9f36e63c81fc9f67e9fa89c22db65e5fba5d2f1eb48c8f3ad
+
+Package: zphisher
+Version: 2.3.5
+Architecture: all
+Maintainer: @htr-tech
+Depends: ncurses-utils, proot, resolv-conf, curl, php, unzip
+Homepage: https://github.com/htr-tech/zphisher
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
+Filename: dists/Prince4you/main/binary-all/zphisher_2.3.5_all.deb
+Size: 7097128
+MD5Sum: edc1e4cfa377396759b8abb832ed3df8
+SHA1: 55844eeacff302abbf3c21e5bf7021a7a74801e1
+SHA256: 13551fd60f3850c93eab231284b3822b9a0a9af170909e0cdde5418245dd292b
+SHA512: 961f1eb01b7134bf933218353cbc445434e489f65998a30f66d26d9b36861d9ed32f09046c92cf70fa8bc8f0a17120046d961c0067fb97982577b9855fbfa56c
+
