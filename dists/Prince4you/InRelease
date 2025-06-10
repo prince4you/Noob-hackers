@@ -6,7 +6,7 @@ Version: 1
 Architectures: all
 Description: Prince4you repository
 Suite: Prince4you
-Date: Tue, 10 Jun 2025 05:59:34 UTC
+Date: Tue, 10 Jun 2025 06:04:07 UTC
 Components: main
 MD5Sum:
  96deedc966515de272a501f166bc7f29 13754 main/binary-all/Packages
@@ -30,17 +30,17 @@ SHA512:
  25d9e3608a9464660153ffe73f0953c8793bcd3f6e73c9c6a02abe1020b6b0d4dbd38f7c8c1e2970790bed43484ce06d29449d5574d7e35bda57a11f3a98b171 26296 main/Contents-all.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEjpmwFHT7+pNLWcp13ewypIa0vsMFAmhHycgACgkQ3ewypIa0
-vsNrEg//URpReVTvC2U4jTFOwPFSdbLmM7Ie+kvwOTn6aCy5UZ7Ws/qszbdVGh+r
-HpX0ClPDu2kKe64TDLOlemtZiTlvn6nqdqgwPkyGt49TAwyXBZ5Hh7qCs4/wMZPZ
-uTcWpQ1o3ffwTzy2f+nRL/FhHTYJasXv4eLNzYWoUV3xYBZTYGM6ZWfgjiDH5P8I
-UzpalkI//eBadjcrYgSBUza9+F5+iMin1+eNkZW4Ws8Xmp70dH+DdCKLkiV4XfO+
-XcvYlrsftSmA/MqZCZdh50dyUOOPCJwhrHOwOka3VcGpC7JtnYynqX4z4g/lgngk
-3wcCN3uHvX1y1cC7NgZfRx2P6N/+xvbUy/DVQbzjNy5aEQvXZ+jAUVOIgsKqtRrw
-gzh54QKgCxwBCupW0qFpBh80mIpelR/tfwkUudw1LTBg2yoVsmaGqm9M2+4aX0Fh
-revKJLO8ULzHeqF1xRRi1CbFYhbjZ2OItMm2zaZUo6KyRU7EaexKVEflfEh39cgx
-k69HBBCYD4K6enFl/PZZZ5zNEx6v/iDOXfqpG8jZUH/3fcUymm2zft+Qa5rVEDug
-Kw49wwhLJKzvq9VcYCz5pZALYRBLWZ5YxExdzoUzsjJZZTnCM/26H+NBWUpPjFeA
-bkOEB01CFmXz0jAQ7GoP1oCPas7AH1dNrvfy5CmviFVvcZxW97k=
-=shc9
+iQIzBAEBCAAdFiEEjpmwFHT7+pNLWcp13ewypIa0vsMFAmhHytoACgkQ3ewypIa0
+vsMc+g//W5lcrKxCv/x9xMotF0AHeC6KV4PZkZad8i+CT2654IGP5b5pYK2a+QpU
+uk5UbuX5SfSn4NuO0VHqQNVQhZMPZd6L9GP+K0/c7DHxUHKxYU900G3A+2FWhRtU
+A5muFzqnQqJaSWjyOMQEXMfbTzWzY3vyveoHzBbQe1skQbDCalkmxctJXoY/C84D
+i39fyFvz/FCQ2peSjUYIyhu6p3fX6Efo9JPAb5wvQHJCmfMqHKoZ06byA8U+2q2S
+KyHqEJ+UqBnwZuk6qXhK+PRImFZ4P/V++Br/FmDPq0oo8X6FZNiseo6s2cebDsTw
+ntlLfI0G/w19uLkaHOjtNv85ZuYVj9LiGS/BhLMs5W8i+n175kiBkbPJBoVjsgl1
+AY9kmWnv5ZTDmnTqBh8awP672yOy4huhUjNIl02OBSqax6px6QZBD5YTpPuxfwDB
+KaDJgb4qQcw4q2/47NGA1cbB13+OWn5Fb6rs9Cebj2Bi9AD/QQoM0TAQD2tlFAJ8
+/IF8QyB2nr/RCM7s+jcDqOwtzhQHj8vpkgIV5/AZ/mMvqrAJnxGS9Aea/gbrNpem
++2TqsUO4puT1NJ2DBpjIeWRaOY8pBnrJA5Tq5mbIG5O+LXKZtopQfymCc3bNcRGy
+XZyDq+MzKSEc/aF2khgyN/4CJYcTRf+PwlUzERCwZUenlhm3DlI=
+=hsqV
 -----END PGP SIGNATURE-----
