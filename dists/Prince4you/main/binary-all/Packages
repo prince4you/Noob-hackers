@@ -215,6 +215,20 @@ SHA1: e28e113235d1938aa13776a9fce955e63b9b88d0
 SHA256: 7ceab76c89a0655fd5537b1a003460d6d4eaab0a8f7e17ccaed6dbe4d200994f
 SHA512: a20999c0df5c59b2f5447b5c95b0a2dd4ce4627638b6a4d1b26a5d8349a387485391eccaee2a4d30ea7860c9ec52d86a554328d8236a3882d73712d88b10c642
 
+Package: sherlock
+Version: 1.0.1
+Architecture: all
+Maintainer: Sunil [prince4you]
+Homepage: https://sherlockproject.xyz
+Depends:  python, git, tur-repo, python-pandas
+Description: Powerful tool to find social media accounts by username
+Filename: dists/Prince4you/main/binary-all/sherlock.deb
+Size: 932
+MD5Sum: f275b4395b48240b5d66444f22621254
+SHA1: beac456bf452b320455747487deb4d8bcb8fa22b
+SHA256: 84c3c2584db7990dd47f36c3b6150b1275f2f34c72b465ffe75b4196ef6fa338
+SHA512: 5ed1120d74ec10cd11ea1383d005b133ab03478a6640a0a24004be80321218619e3a0a1b315bfca5fd614c5b8cbb169400b012ccb55de9301121fc5ccae13f4c
+
 Package: sqlmap
 Version: 1.9
 Architecture: all
