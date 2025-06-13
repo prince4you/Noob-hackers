@@ -17,6 +17,7 @@ data/data/com.termux/files/usr/bin/noo-hub                                      
 data/data/com.termux/files/usr/bin/parrot-os                                     parrot-os
 data/data/com.termux/files/usr/etc/proot-distro/prrt.sh                          parrot-os
 data/data/com.termux/files/usr/bin/rhawk                                         redhawk
+data/data/com.termux/files/usr/bin/rootless-nethunter                            rootless-nethunter
 data/data/com.termux/files/usr/bin/sqlmap                                        sqlmap
 data/data/com.termux/files/home/.icons/candy-icons-master/.github/FUNDING.yml    termux-desktop
 data/data/com.termux/files/home/.icons/candy-icons-master/.github/ISSUE_TEMPLATE/icon-request.md termux-desktop
